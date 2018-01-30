@@ -1,0 +1,17 @@
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Open.SPF.Installer.dll.config
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Open.SPF.Installer.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Open.SPF.Installer.pdb
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Open.SPF.Core.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Microsoft.Practices.Unity.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Open.SPF.Core.pdb
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Microsoft.Practices.Unity.xml
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\obj\Debug\Open.SPF.Installer.csprojResolveAssemblyReference.cache
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\obj\Debug\Open.SPF.Installer.ProjectInstaller.resources
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\obj\Debug\Open.SPF.Installer.csproj.GenerateResource.Cache
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\obj\Debug\Open.SPF.Installer.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Installer\obj\Debug\Open.SPF.Installer.pdb

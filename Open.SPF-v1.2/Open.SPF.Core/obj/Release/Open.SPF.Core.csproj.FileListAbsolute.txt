@@ -1,0 +1,15 @@
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Open.SPF.Core.dll.config
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Open.SPF.Core.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Open.SPF.Core.pdb
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.Unity.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.Unity.xml
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\obj\Release\Open.SPF.Core.dll
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\obj\Release\Open.SPF.Core.pdb
+D:\JKita\Code\SimplePerissions\Open.SPF-v1.2\Open.SPF.Core\obj\Release\Open.SPF.Core.csprojResolveAssemblyReference.cache

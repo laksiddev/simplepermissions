@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.Core", "Open.SPF.Core\Open.SPF.Core.csproj", "{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.Core.Test", "Open.SPF.Core.Test\Open.SPF.Core.Test.csproj", "{757FA145-E7CE-484C-AECF-4832F7471231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.Installer", "Open.SPF.Installer\Open.SPF.Installer.csproj", "{24BCFCDA-32A2-4CF8-A1D6-E6D897CDAAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.Web", "Open.SPF.Web\Open.SPF.Web.csproj", "{972ABDDC-3D1F-437C-9897-C4810B0C4A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.Web.Test", "Open.SPF.Web.Test\Open.SPF.Web.Test.csproj", "{03A7227A-234F-48A7-B858-591FF5E8B988}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E85418E0-BDB0-4139-9C39-A65097FA8A37}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.Web.Owin", "Open.SPF.Web.Owin\Open.SPF.Web.Owin.csproj", "{61DC755F-4C29-4A67-8DA8-56F5193492BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.Web.Owin.Test", "Open.SPF.Web.Owin.Test\Open.SPF.Web.Owin.Test.csproj", "{432D8036-AEB7-4833-9429-8D9565AF5675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757FA145-E7CE-484C-AECF-4832F7471231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757FA145-E7CE-484C-AECF-4832F7471231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757FA145-E7CE-484C-AECF-4832F7471231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757FA145-E7CE-484C-AECF-4832F7471231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24BCFCDA-32A2-4CF8-A1D6-E6D897CDAAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BCFCDA-32A2-4CF8-A1D6-E6D897CDAAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BCFCDA-32A2-4CF8-A1D6-E6D897CDAAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BCFCDA-32A2-4CF8-A1D6-E6D897CDAAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972ABDDC-3D1F-437C-9897-C4810B0C4A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972ABDDC-3D1F-437C-9897-C4810B0C4A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972ABDDC-3D1F-437C-9897-C4810B0C4A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972ABDDC-3D1F-437C-9897-C4810B0C4A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A7227A-234F-48A7-B858-591FF5E8B988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A7227A-234F-48A7-B858-591FF5E8B988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A7227A-234F-48A7-B858-591FF5E8B988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A7227A-234F-48A7-B858-591FF5E8B988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DC755F-4C29-4A67-8DA8-56F5193492BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DC755F-4C29-4A67-8DA8-56F5193492BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DC755F-4C29-4A67-8DA8-56F5193492BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DC755F-4C29-4A67-8DA8-56F5193492BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432D8036-AEB7-4833-9429-8D9565AF5675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432D8036-AEB7-4833-9429-8D9565AF5675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432D8036-AEB7-4833-9429-8D9565AF5675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432D8036-AEB7-4833-9429-8D9565AF5675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs08
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Open.SPF.Core\\Open.SPF.Core.csproj
+		SccProjectName1 = Open.SPF.Core
+		SccLocalPath1 = Open.SPF.Core
+		SccProjectUniqueName2 = Open.SPF.Core.Test\\Open.SPF.Core.Test.csproj
+		SccProjectName2 = Open.SPF.Core.Test
+		SccLocalPath2 = Open.SPF.Core.Test
+		SccProjectUniqueName3 = Open.SPF.Installer\\Open.SPF.Installer.csproj
+		SccProjectName3 = Open.SPF.Installer
+		SccLocalPath3 = Open.SPF.Installer
+		SccProjectUniqueName4 = Open.SPF.Web\\Open.SPF.Web.csproj
+		SccProjectName4 = Open.SPF.Web
+		SccLocalPath4 = Open.SPF.Web
+		SccProjectUniqueName5 = Open.SPF.Web.Test\\Open.SPF.Web.Test.csproj
+		SccProjectName5 = Open.SPF.Web.Test
+		SccLocalPath5 = Open.SPF.Web.Test
+		SccProjectUniqueName6 = Open.SPF.Web.Owin\\Open.SPF.Web.Owin.csproj
+		SccProjectName6 = Open.SPF.Web.Owin
+		SccLocalPath6 = Open.SPF.Web.Owin
+		SccProjectUniqueName7 = Open.SPF.Web.Owin.Test\\Open.SPF.Web.Owin.Test.csproj
+		SccProjectName7 = Open.SPF.Web.Owin.Test
+		SccLocalPath7 = Open.SPF.Web.Owin.Test
+	EndGlobalSection
+EndGlobal

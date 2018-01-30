@@ -1,0 +1,15 @@
+  <configSections>
+    <section name="corePermissionConfiguration" type="Open.SPF.Configuration.CorePermissionConfigurationSettings, Open.SPF.Core" />
+    <section name="appPermissionConfiguration" type="Open.SPF.Configuration.ApplicationPermissionConfigurationSettings, Open.SPF.Core" />
+  </configSections>
+  <appPermissionConfiguration>
+    <corePermissionConfigurationItems>
+      <add permissionName="FirstPermission" permittedRole="FirstRole" />
+      <add permissionName="SecondPermission" permittedRole="SecondRole" />
+      <add permissionName="FirstPermission" permittedRole="ThirdRole" />
+      <add permissionName="ThirdPermission" isUnrestricted="true" />
+    </corePermissionConfigurationItems>
+    <customPermissionConfigurationItems>
+      <add permissionName="FirstPermission" ruleType="Custom.Rule.Type" ruleMethod="MethodName" argument1="" argument2="" argument3="" argument4="" argument5="" />
+    </customPermissionConfigurationItems>
+  </appPermissionConfiguration>
