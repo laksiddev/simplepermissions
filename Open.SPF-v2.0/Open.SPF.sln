@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Open.SPF.Core", "Open.SPF.Core\Open.SPF.Core.csproj", "{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E85418E0-BDB0-4139-9C39-A65097FA8A37}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.PostBuild", "Open.SPF.PostBuild\Open.SPF.PostBuild.csproj", "{3235ABA2-EF66-48F4-A97E-66E45E297326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.SPF.Core.Test", "Open.SPF.Core.Test\Open.SPF.Core.Test.csproj", "{4999C8EE-5189-455C-93A0-371FE4CFC5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE0D8C0-D182-4F52-B5D0-ACE9E7A206A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3235ABA2-EF66-48F4-A97E-66E45E297326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3235ABA2-EF66-48F4-A97E-66E45E297326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3235ABA2-EF66-48F4-A97E-66E45E297326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3235ABA2-EF66-48F4-A97E-66E45E297326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4999C8EE-5189-455C-93A0-371FE4CFC5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4999C8EE-5189-455C-93A0-371FE4CFC5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4999C8EE-5189-455C-93A0-371FE4CFC5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4999C8EE-5189-455C-93A0-371FE4CFC5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A63073F-8B1E-4CEF-B474-729962AD0A13}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://jameskita.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Open.SPF.PostBuild\\Open.SPF.PostBuild.csproj
+		SccProjectName1 = Open.SPF.PostBuild
+		SccLocalPath1 = Open.SPF.PostBuild
+		SccProjectUniqueName2 = Open.SPF.Core.Test\\Open.SPF.Core.Test.csproj
+		SccProjectName2 = Open.SPF.Core.Test
+		SccLocalPath2 = Open.SPF.Core.Test
+	EndGlobalSection
+EndGlobal
